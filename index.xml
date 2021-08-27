@@ -6,7 +6,61 @@
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 06 Aug 2021 00:35:30 +0800</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 26 Aug 2021 08:31:31 +0800</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[ros][chap 6] ROS Topic (Subscriber)</title>
+      <link>http://example.org/posts/ros0826/</link>
+      <pubDate>Thu, 26 Aug 2021 08:31:31 +0800</pubDate>
+      
+      <guid>http://example.org/posts/ros0826/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[ros][chap 5] ROS Topic (Publisher)</title>
+      <link>http://example.org/posts/ros0825/</link>
+      <pubDate>Wed, 25 Aug 2021 08:30:33 +0800</pubDate>
+      
+      <guid>http://example.org/posts/ros0825/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[python] 簡易Socket多Client溝通</title>
+      <link>http://example.org/posts/python0824/</link>
+      <pubDate>Tue, 24 Aug 2021 08:42:45 +0800</pubDate>
+      
+      <guid>http://example.org/posts/python0824/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[ros][chap 4] 建立ROS Package</title>
+      <link>http://example.org/posts/ros0824/</link>
+      <pubDate>Tue, 24 Aug 2021 08:30:35 +0800</pubDate>
+      
+      <guid>http://example.org/posts/ros0824/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[ros][chap 2] 設置ROS環境 下</title>
+      <link>http://example.org/posts/ros0823/</link>
+      <pubDate>Mon, 23 Aug 2021 08:30:38 +0800</pubDate>
+      
+      <guid>http://example.org/posts/ros0823/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[ros][chap 1] 設置ROS環境 上</title>
+      <link>http://example.org/posts/ros0822/</link>
+      <pubDate>Sun, 22 Aug 2021 08:30:45 +0800</pubDate>
+      
+      <guid>http://example.org/posts/ros0822/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>[學習日記] LeetCode Problem 78.</title>
       <link>http://example.org/posts/leetcode210806/</link>
