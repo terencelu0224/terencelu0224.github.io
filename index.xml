@@ -6,25 +6,7 @@
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 13 Aug 2021 01:39:48 +0800</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>[學習日記] LeetCode Problem 78.</title>
-      <link>http://example.org/posts/post4/</link>
-      <pubDate>Fri, 13 Aug 2021 01:39:48 +0800</pubDate>
-      
-      <guid>http://example.org/posts/post4/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>[學習日記] LeetCode Problem 4.</title>
-      <link>http://example.org/posts/post3/</link>
-      <pubDate>Fri, 13 Aug 2021 01:39:42 +0800</pubDate>
-      
-      <guid>http://example.org/posts/post3/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Fri, 06 Aug 2021 00:35:30 +0800</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>[學習日記] LeetCode Problem 78.</title>
       <link>http://example.org/posts/leetcode210806/</link>
@@ -58,24 +40,6 @@
       <pubDate>Mon, 19 Jul 2021 10:58:31 +0800</pubDate>
       
       <guid>http://example.org/posts/leetcode210719/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>[學習日記] LeetCode Problem 2.</title>
-      <link>http://example.org/posts/post2/</link>
-      <pubDate>Wed, 14 Jul 2021 03:53:53 +0800</pubDate>
-      
-      <guid>http://example.org/posts/post2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>[學習日記] LeetCode Problem 1.</title>
-      <link>http://example.org/posts/post1/</link>
-      <pubDate>Wed, 14 Jul 2021 03:53:46 +0800</pubDate>
-      
-      <guid>http://example.org/posts/post1/</guid>
       <description></description>
     </item>
     
